@@ -1,7 +1,6 @@
-# CampoMinado!
+# Projeto campo minado !
 
 ![images](https://user-images.githubusercontent.com/89035290/209579666-07de57cf-4b5e-43b3-beb3-2030c630584c.png)
-<h2>Projeto campo minado <h2>
   <h4>Feito como conclusao do curso Fundamentos de Programação Moderna com Kotlin oferecido pela COD3R. <h4>
     - Certificado : https://www.cod3r.com.br/certificates/7nytu2byyd
   
@@ -9,4 +8,4 @@
    
   <h4>Encerrando o curso temos um projeto campo minado, aplicando os conceitos aprendidos na pratica<h4>
   
-    ![image](https://user-images.githubusercontent.com/89035290/209580128-56119995-4ef6-4201-9e86-356292ef18d2.png)
+![Captura de tela de 2022-12-26 17-00-56](https://user-images.githubusercontent.com/89035290/209580324-168589cd-b4d6-4ed4-b889-3cb1736bdacb.png)
